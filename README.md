@@ -1,6 +1,5 @@
 # Predictive-Modeling-Workflow
 
-# Predictive Modeling Workflow
 
 This repository demonstrates an end-to-end workflow for building a predictive model. The project includes data loading, cleaning, exploration, feature engineering, model training, evaluation, and prediction.
 
