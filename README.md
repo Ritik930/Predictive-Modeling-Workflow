@@ -58,11 +58,3 @@ This repository demonstrates an end-to-end workflow for building a predictive mo
 
 "
 pip install -r requirements.txt"
-
-3. Run individual scripts:
-
-Data Cleaning: python src/data_cleaning.py
-Feature Engineering: python src/feature_engineering.py
-Model Training: python src/model_training.py
-Model Evaluation: python src/evaluation.py
-Prediction: python src/prediction.py
